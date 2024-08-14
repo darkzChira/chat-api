@@ -58,7 +58,7 @@ db.messages.createIndex({ sender_id: 1, receiver_id: 1, timestamp: -1 })
 ### Project Setup
 1. **Clone the repository**
 ```bash
-git clone https://github.com/darkzChira/chat-app.git
+git clone https://github.com/darkzChira/chat-api.git
 cd chat-app
 ```
 
@@ -91,7 +91,7 @@ The application has been deployed using the following services
 * **DigitalOcean**: Cloud infrastructure provider used to deploy the backend service.
 
 
-The production backend service is accessible at [https://sea-lion-app-3txpk.ondigitalocean.app/](https://sea-lion-app-3txpk.ondigitalocean.app/).
+The production backend service is accessible at [https://goldfish-app-ewgy2.ondigitalocean.app/](https://goldfish-app-ewgy2.ondigitalocean.app/).
 
 
 ## Contact
