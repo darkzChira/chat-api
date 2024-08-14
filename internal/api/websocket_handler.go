@@ -1,8 +1,8 @@
 package api
 
 import (
-	"chat-app/internal/repository"
-	ws "chat-app/internal/websocket"
+	"chat-api/internal/repository"
+	ws "chat-api/internal/websocket"
 	"encoding/json"
 	"errors"
 	"github.com/golang-jwt/jwt/v4"

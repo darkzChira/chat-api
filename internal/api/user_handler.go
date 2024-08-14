@@ -1,8 +1,8 @@
 package api
 
 import (
-	"chat-app/internal/models"
-	"chat-app/internal/service"
+	"chat-api/internal/models"
+	"chat-api/internal/service"
 	"context"
 	"encoding/json"
 	"github.com/gorilla/mux"

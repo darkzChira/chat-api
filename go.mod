@@ -1,4 +1,4 @@
-module chat-app
+module chat-api
 
 go 1.19
 

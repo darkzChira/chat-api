@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"chat-app/internal/models"
+	"chat-api/internal/models"
 	"context"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"

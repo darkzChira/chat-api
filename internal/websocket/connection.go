@@ -1,8 +1,8 @@
 package websocket
 
 import (
-	"chat-app/internal/models"
-	"chat-app/internal/repository"
+	"chat-api/internal/models"
+	"chat-api/internal/repository"
 	"context"
 	"encoding/json"
 	"github.com/gorilla/websocket"

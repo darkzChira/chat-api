@@ -1,8 +1,8 @@
 package service
 
 import (
-	"chat-app/internal/models"
-	"chat-app/internal/repository"
+	"chat-api/internal/models"
+	"chat-api/internal/repository"
 	"context"
 	"errors"
 	"github.com/golang-jwt/jwt/v4"

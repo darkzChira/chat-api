@@ -1,8 +1,8 @@
 package main
 
 import (
-	"chat-app/cmd/service"
-	"chat-app/internal/config"
+	"chat-api/cmd/service"
+	"chat-api/internal/config"
 	"context"
 	"log"
 )

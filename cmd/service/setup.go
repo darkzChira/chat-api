@@ -1,11 +1,11 @@
 package service
 
 import (
-	"chat-app/internal/api"
-	"chat-app/internal/middleware"
-	"chat-app/internal/repository"
-	"chat-app/internal/service"
-	"chat-app/internal/websocket"
+	"chat-api/internal/api"
+	"chat-api/internal/middleware"
+	"chat-api/internal/repository"
+	"chat-api/internal/service"
+	"chat-api/internal/websocket"
 	"context"
 	"github.com/gorilla/mux"
 	"go.mongodb.org/mongo-driver/mongo"
