@@ -62,7 +62,7 @@ git clone https://github.com/darkzChira/chat-api.git
 cd chat-app
 ```
 
-2. **Install dependencies*
+2. **Install dependencies**
    Ensure you have Go installed on your machine. Then, install the necessary Go packages
 ```bash
 go mod tidy
